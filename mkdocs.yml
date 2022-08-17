@@ -4,6 +4,7 @@ site_name: NLP-DVC-Project-with-docs
 nav:
   - Home: index.md
   - Data-prep-stage: data_prep.md
+  - Featurization: featurization.md
 
 site_author: Pallavi Saxena
 site_description: >-
