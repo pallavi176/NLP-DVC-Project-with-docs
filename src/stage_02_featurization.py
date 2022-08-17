@@ -3,7 +3,7 @@ import os
 import numpy as np
 from tqdm import tqdm
 import logging
-from src.utils.common import read_yaml, create_directories, get_df
+from src.utils import read_yaml, create_directories, get_df, save_matrix
 import random
 from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
 
