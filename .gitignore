@@ -145,3 +145,5 @@ artifacts/prepared/test.tsv
 artifacts/prepared/train.tsv
 
 # data/
+
+artifacts/features/
