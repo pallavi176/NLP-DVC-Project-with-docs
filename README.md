@@ -35,3 +35,7 @@ dvc init
 
 Project with Mkdocs documentations
 
+git rm -r --cached 'artifacts\model\model.pkl'
+git commit -m "stop tracking artifacts\model\model.pkl"
+
+git rm -r --cached 'logs\running_logs.log'
