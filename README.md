@@ -39,3 +39,8 @@ git rm -r --cached 'artifacts\model\model.pkl'
 git commit -m "stop tracking artifacts\model\model.pkl"
 
 git rm -r --cached 'logs\running_logs.log'
+
+git rm -r --cached 'artifacts\features\train.pkl'
+git rm -r --cached 'artifacts\features\test.pkl'
+git rm -r --cached 'artifacts\prepared\train.tsv'
+git rm -r --cached 'artifacts\prepared\test.tsv'

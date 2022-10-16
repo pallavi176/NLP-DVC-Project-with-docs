@@ -150,3 +150,9 @@ artifacts/
 
 artifacts/prepared/
 artifacts/features/
+
+artifacts\features\train.pkl
+artifacts\features\test.pkl
+artifacts\prepared\train.tsv
+artifacts\prepared\test.tsv
+
