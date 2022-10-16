@@ -148,5 +148,5 @@ artifacts/prepared/train.tsv
 
 artifacts/
 
-artifacts/prepared
-artifacts/features
+artifacts/prepared/
+artifacts/features/
